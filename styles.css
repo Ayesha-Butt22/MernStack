@@ -1,0 +1,30 @@
+/*styles.css*/
+
+/* Sidebar styling */
+.col-2 {
+  background-color:#343a4096; /* dark gray */
+  height: 100vh; /* full height screen tak */
+  padding-top: 35px;
+   flex: 0 0 auto;
+    width: 10.666667%;
+}
+
+.col-2 ul {
+  padding-left: 0;
+}
+
+.col-2 ul li a {
+  font-size: 1.1rem;
+  cursor: pointer;
+  color: white;
+}
+.col-2 ul li a.active, 
+.col-2 ul li a:hover {
+  background-color: #0d6efd ;
+  color: white;
+  border-radius: 4px;
+  
+}
+
+
+   
